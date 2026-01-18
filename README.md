@@ -6,7 +6,7 @@ system, demonstrating my ability to deliver mission-critical software.
   
 https://github.com/user-attachments/assets/c4281019-f37a-419f-aa00-7ac076a129d7
   
-![Medical 3d rendering software - Full Video](https://www.youtube.com/watch?v=-ZlUIBtGxJo)  
+[Medical 3d rendering software - Full Video](https://youtu.be/-ZlUIBtGxJo)  
   
 ## Skills
   
