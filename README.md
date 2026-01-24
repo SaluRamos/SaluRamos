@@ -11,6 +11,6 @@ https://github.com/user-attachments/assets/6f23bebb-caf5-4b48-bbd1-0c4ed710def2
 ## Skills
   
 Java, Maven, Gradle, Spring, Python, Flask, SciKitLearn, Selenium, C, C++, Vcpkg, CMake, Makefile, BatchScript, HTML, CSS, Javascript, AWS 
-EC2, Nginx, PostgreSQL, Redis, REST API, Cloudflare, Docker, Linux, Computer network, Symmetric and 
+EC2, Nginx, Jira, Scrum, Kanban, PostgreSQL, Redis, REST API, Cloudflare, Docker, Linux, Computer network, Symmetric and 
 asymmetric cryptography, Cibersecurity, BurpSuite/ZAP, Wireshark, Reverse engineering, Tensorflow, MLP, CNN, RNN, LSTM, GAN's, Cuda, 3d rendering, OpenGL, glsl, 
 microservices, CI/CD, TDD.
